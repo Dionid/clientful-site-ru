@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '32ab59d9b4c980c6a6eac74842dab007',
+  rootNotionPageId: '35ab59d9b4c98067838cf404b7274d1f',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -15,7 +15,7 @@ export default siteConfig({
 
   // open graph metadata (optional)
   description:
-    'clientful – многопользовательские приложения без серверов и баз данных.',
+    'clientful – многопользовательские приложения без backend сервисов и баз данных.',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
