@@ -15,7 +15,7 @@ export default siteConfig({
 
   // open graph metadata (optional)
   description:
-    'clientful – многопользовательские приложения без backend сервисов и баз данных.',
+    'clientful – real-time collaborative offline-first приложения без backend сервисов и баз данных.',
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
